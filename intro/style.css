@@ -1,0 +1,26 @@
+* {
+
+}
+
+.main-title {
+    background-color: green;
+}
+
+h2 {
+
+}
+
+#title {
+
+}
+
+.biostyles {
+    background-color: blueviolet;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+.pad {
+    padding: '20px'
+}
