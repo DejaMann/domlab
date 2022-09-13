@@ -1,0 +1,10 @@
+body {
+    background-color: brown;
+}
+
+button{
+    color: white;
+    background-color: orange;
+    border-color: white;
+    padding: 20px;
+}
